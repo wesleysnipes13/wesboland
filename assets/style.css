@@ -67,6 +67,7 @@ p { margin: 0 0 1.1rem; }
 ul, ol { margin: 0 0 1.1rem; padding-left: 1.4rem; }
 li { margin-bottom: .35rem; }
 main > section { margin: 2.6rem 0; }
+.gap-above { margin-top: 2.2rem; }
 .lede { font-size: 1.4rem; line-height: 1.5; }
 .meta { font-family: var(--sans); color: var(--muted); font-size: 1.05rem; margin-top: -.4rem; }
 .more { font-family: var(--sans); font-weight: 500; font-size: 1.1rem; }

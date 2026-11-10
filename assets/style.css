@@ -80,10 +80,10 @@ main > section { margin: 2.6rem 0; }
 .icon { width: 1em; height: 1em; fill: currentColor; flex: none; }
 .social { display: flex; flex-wrap: wrap; gap: 14px; list-style: none; padding: 0; margin: 0; }
 .social li { margin: 0; }
-.social__btn { display: flex; align-items: center; gap: 14px; padding: 14px 20px 14px 16px; background: var(--surface); border: 1px solid var(--rule); border-radius: 12px; color: var(--ink); text-decoration: none; transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
-.social__btn .icon { width: 44px; height: 44px; }
+.social__btn { display: flex; align-items: center; gap: 14px; padding: 12px 18px 12px 14px; background: var(--surface); border: 1px solid var(--rule); border-radius: 12px; color: var(--ink); text-decoration: none; transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
+.social__btn .icon { width: 34px; height: 34px; }
 .social__btn span { display: flex; flex-direction: column; font-family: var(--sans); line-height: 1.2; }
-.social__btn b { font-size: 1.3rem; font-weight: 700; }
+.social__btn b { font-size: 1.2rem; font-weight: 700; }
 .social__btn small { font-size: .95rem; color: var(--muted); }
 .social__btn:hover { color: var(--ink); border-color: var(--ink); transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,.08); }
 .social__btn--substack .icon { color: var(--substack); }

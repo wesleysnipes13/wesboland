@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wesleysnipes13.github.io/wesboland/sitemap.xml
